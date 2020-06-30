@@ -1,0 +1,6 @@
+framework module XYBaseComponent {
+  umbrella header "XYBaseComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

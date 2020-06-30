@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XYBaseComponent_Example' do
+  pod 'XYBaseComponent', :path => '../'
+
+  target 'XYBaseComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

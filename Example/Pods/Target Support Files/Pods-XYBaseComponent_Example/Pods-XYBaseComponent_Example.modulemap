@@ -1,0 +1,6 @@
+framework module Pods_XYBaseComponent_Example {
+  umbrella header "Pods-XYBaseComponent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

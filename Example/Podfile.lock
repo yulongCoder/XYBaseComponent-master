@@ -1,0 +1,16 @@
+PODS:
+  - XYBaseComponent (0.1.0)
+
+DEPENDENCIES:
+  - XYBaseComponent (from `../`)
+
+EXTERNAL SOURCES:
+  XYBaseComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYBaseComponent: 5d8683eff24f993eb98aafc99ebcd5f912ed5fd3
+
+PODFILE CHECKSUM: 89fd640c985266e73a64a51b050b6662b337edcd
+
+COCOAPODS: 1.9.3
