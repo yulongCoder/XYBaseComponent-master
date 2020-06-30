@@ -1,5 +1,5 @@
 PODS:
-  - XYBaseComponent (0.1.0)
+  - XYBaseComponent (1.0.1)
 
 DEPENDENCIES:
   - XYBaseComponent (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XYBaseComponent: 5d8683eff24f993eb98aafc99ebcd5f912ed5fd3
+  XYBaseComponent: c946df3ca5f89329a28cafbdfa486873ffbafe7e
 
 PODFILE CHECKSUM: 89fd640c985266e73a64a51b050b6662b337edcd
 

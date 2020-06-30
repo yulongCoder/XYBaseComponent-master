@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XYBaseComponent'
   s.version          = '1.0.1'
-  s.summary          = 'A short description of XYBaseComponent.'
+  s.summary          = '我的基础组件库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yulongCoder/XYBaseComponent'
+  s.homepage         = 'https://github.com/yulongCoder/XYBaseComponent-master'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yulongCoder' => 'xiaoyulong001@163.com' }
@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'XYBaseComponent/Classes/**/*'
   
   s.resource_bundles = {
-   'XYBaseComponent' => ['XYBaseComponent/Assets/*.*']
+    'XYBaseComponent' => ['XYBaseComponent/Assets/*.*']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
