@@ -7,12 +7,18 @@
 //
 
 #import "XYAppDelegate.h"
+#import "XYViewController.h"
 
 @implementation XYAppDelegate
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
-{
-    // Override point for customization after application launch.
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    self.window.backgroundColor = [UIColor whiteColor];
+    
+    XYViewController *vc = [[XYViewController alloc] init];
+    self.window.rootViewController = vc;
+    
+    [self.window makeKeyAndVisible];
     return YES;
 }
 

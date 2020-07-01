@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "LanguageManager.h"
+#import "NSString+MyString.h"
 
 FOUNDATION_EXPORT double XYBaseComponentVersionNumber;
 FOUNDATION_EXPORT const unsigned char XYBaseComponentVersionString[];

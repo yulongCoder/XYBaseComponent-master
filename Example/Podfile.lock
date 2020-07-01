@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XYBaseComponent: c946df3ca5f89329a28cafbdfa486873ffbafe7e
+  XYBaseComponent: a55ab293d9c9f15beabe710d6c88a5de04a37c73
 
 PODFILE CHECKSUM: 89fd640c985266e73a64a51b050b6662b337edcd
 
